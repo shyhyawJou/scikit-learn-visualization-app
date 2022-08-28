@@ -6,8 +6,8 @@ Realize what your model have learned.
 - Support 2D data.
 
 # Prepare 
-- __Excel File with 3 columns__ (*.csv or *.xlsx)
-  first is x coordinate, second is y coordinate, third is class. 
+- __Excel File with 3 columns__ (*.csv or *.xlsx)  
+  first is x coordinate, second is y coordinate, third is class name. 
 - __Scikit-learn classifier__ (*.pickle or *.joblib)
   
 # Usage
