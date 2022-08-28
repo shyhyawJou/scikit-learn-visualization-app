@@ -15,4 +15,6 @@ Realize what your model have learned.
 2. Click button `Display`.
 3. (optional) Click button `Change Color` to choose the color style you prefer.
 4. (optional) Check the box to make the plot show axis.
-5. Click `Save` to save the plot.
+5. Click `Save` to save the plot.  
+
+![__DEMO__](assets/demo.JPG)
