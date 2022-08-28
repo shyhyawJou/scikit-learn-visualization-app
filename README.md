@@ -20,7 +20,7 @@ Realize what your model have learned.
 ![__DEMO__](assets/demo.JPG)
 
 # About Download
-Because the `app.exe` is stored in the git LFS, if you directly download the zip file, there will no `app.exe` in it. So you need to do the procedure below.
+Because the `app.exe` is stored in the git LFS, if you directly download the zip file, there will have no `app.exe` in it. So you need to do the procedure below.
 
 1. Click the `app.exe` in my github.
 2. Press the tool button on the upper-right corner.
