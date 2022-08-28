@@ -2,7 +2,7 @@
 Realize what your model have learned.
 
 # Note
-- Support scikit-learn classifier inclusive anormally detection.
+- Support scikit-learn classifier.
 - Support 2D data.
 
 # Prepare 
